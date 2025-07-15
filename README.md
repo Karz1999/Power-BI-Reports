@@ -1,6 +1,10 @@
 #**Amazon-prime-dashboard**
+
 📊 Amazon Prime Video Dashboard (Excel + Power BI)
+
+
 <img width="1316" height="738" alt="image" src="https://github.com/user-attachments/assets/3780774b-6d9d-491d-84ed-a7664aa0df4a" />
+
 
 
 Image Description
